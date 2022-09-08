@@ -3,18 +3,23 @@
 <p align="center">
 스파르타코딩클럽 사전과제
   <br>
-  <a href="https://codecellar.tistory.com/"><strong>Developer\'s blog »</strong></a>
+  <a href="https://codecellar.tistory.com/">Developer's blog »</strong></a>
   
 </p>
 
 ## Table of contents
+- [Clone the repo](#Clone-the-repo)
 - [What's included](#whats-included)
 - [Creators](#creators)
+
+## Clone the repo
+
+- Clone the repo: `git clone https://github.com/wholedit/sparta-saveBalloon.git`
 
 
 ## What's included
 
-Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
+You'll see something like this:
 
 ```text
 📦 saveBalloon
