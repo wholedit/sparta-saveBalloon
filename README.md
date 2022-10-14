@@ -1,7 +1,7 @@
 <h3 align="center">sparta-saveBalloon</h3>
 
 <p align="center">
-스파르타코딩클럽 사전과제
+
   <br>
   <a href="https://codecellar.tistory.com/">Developer's blog »</strong></a>
   
